@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheRiverTask</string>
+    <string name="rule1">Переправьте всех на другой берег.</string>
+    <string name="rule2">Не оставляйте козу наедине с волком.</string>
+    <string name="rule3">Не оставляйте капусту наедине с козой.</string>
+    <string name="winLabel">Вы выиграли! Сыграть еще раз?</string>
+</resources>
