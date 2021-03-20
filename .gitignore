@@ -85,5 +85,5 @@ lint/tmp/
 # lint/reports/
 
 # IDEs
-.idea
-.venv
+.idea/
+.venv/
